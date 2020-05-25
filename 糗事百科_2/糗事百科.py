@@ -52,7 +52,6 @@ def parse_info_html(article_id):
 
 
 if __name__ == '__main__':
-
     article_id_list = []
     base_url = 'https://www.qiushibaike.com/text/page/%d/'
     depth = 2  # 爬取深度
